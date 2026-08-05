@@ -30,8 +30,8 @@ O arquivo `netlify.toml` deve conter:
 
 Data-base do painel:
 
-- BAE: 04/08/2026
-- PCJ: 04/08/2026
+- BAE: 05/08/2026
+- PCJ: 05/08/2026
 
 ## Como atualizar pelo Git GUI
 

@@ -30,8 +30,8 @@ O arquivo `netlify.toml` deve conter:
 
 Data-base do painel:
 
-- BAE: 07/08/2026
-- PCJ: 07/08/2026
+- BAE: 10/08/2026
+- PCJ: 10/08/2026
 
 ## Como atualizar pelo Git GUI
 
@@ -39,7 +39,7 @@ Data-base do painel:
 2. Abrir o repositório `C:\Users\dioha\workspace\RS2-EDUCACAO`.
 3. Clicar em `Rescan`.
 4. Clicar em `Stage Changed`.
-5. Escrever uma mensagem de commit, por exemplo: `Atualiza painel BAE 31-07`.
+5. Escrever uma mensagem de commit, por exemplo: `Atualiza painel BAE e PCJ 10-08`.
 6. Clicar em `Commit`.
 7. Clicar em `Push`.
 
